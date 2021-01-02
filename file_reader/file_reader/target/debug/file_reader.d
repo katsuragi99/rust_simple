@@ -1,1 +1,0 @@
-/home/kaguya/Documents/github/rust_simple/file_reader/file_reader/target/debug/file_reader: /home/kaguya/Documents/github/rust_simple/file_reader/file_reader/src/lib.rs /home/kaguya/Documents/github/rust_simple/file_reader/file_reader/src/main.rs
