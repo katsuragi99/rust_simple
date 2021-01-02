@@ -2,7 +2,7 @@ use std::env;
 use std::process;
 use std::rc::Rc;
 use std::cell::RefCell;
-use file_reader::*;
+use file_reader::file_handle_returner;
 
 fn main() {
    let _file_args: Vec<String> = env::args().collect();
